@@ -101,4 +101,4 @@ WordPress Developer | 7.6+ Years Experience
 ---
 
 ## ⭐ Support
-If you like this project, feel free to ⭐ the repository!
+If you like this project, feel free to ⭐ the Cooking Master!
