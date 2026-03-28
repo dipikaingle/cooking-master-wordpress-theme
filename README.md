@@ -40,11 +40,17 @@ Ideal for:
 ---
 
 ## 📷 Screenshots
-_Add screenshots here (Homepage, Recipe section, Blog page, Mobile view)_
 
-Example:
-![Homepage](./screenshots/homepage.png)
-![Recipes](./screenshots/recipes.png)
+- Home Page
+![Homepage](./screenshot/homepage.jpg)
+- Courses Page
+![Courses](./screenshot/courses.jpg)
+- Services Page
+![Services](./screenshot/services.jpg)
+- Team Page
+![Team](./screenshot/team.jpg)
+- Blog Page
+![Blog](./screenshot/blogpage.jpg)
 
 ---
 
